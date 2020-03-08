@@ -1,0 +1,7 @@
+base   slacknotifier
+author mallchin
+email  mallchin@outlook.com
+date   2016-06-11
+name   Slack Notifier
+desc   Notify page events via Slack
+url    https://www.github.com/mallchin/dokuwiki-slack-notifier/
